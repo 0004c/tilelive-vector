@@ -134,7 +134,7 @@ var formats = {
     jpeg: { ctype: 'image/jpeg' },
     png: { ctype: 'image/png' },
     svg: { ctype: 'image/svg+xml', renderer: 'cairo' },
-    svg: { ctype: 'image/svg+xml', renderer: 'svg' },
+    //svg: { ctype: 'image/svg+xml', renderer: 'svg' },
     utf: { ctype: 'application/json' }
 };
 var etags = {};
