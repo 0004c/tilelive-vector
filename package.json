@@ -13,8 +13,8 @@
     }
   ],
   "dependencies": {
-    "mapnik" : "~3.2.0",
-    "tilelive": "5.7.x",
+    "mapnik" : "~3.3.0",
+    "tilelive": "git://github.com/0004c/tilelive.js.git",
     "tar": "~0.1.18",
     "request": "~2.48.0",
     "numeral": "~1.5.3",
